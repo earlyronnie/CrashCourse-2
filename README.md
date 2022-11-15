@@ -1,8 +1,8 @@
 # CrashCourse2.0
 
 2nd Frontend Design
-This is my version of Design Course's Frontend Development 2022 Crash Course. 
 
+This is my version of Design Course's Frontend Development 2022 Crash Course. 
 Things I learned: 
 
 HTML: 
